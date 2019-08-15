@@ -4,6 +4,7 @@ def countdown(number)
   puts "#{number} SECOND(S)!"
   number +=1
 end
+end
 =begin
 def countdown_with_sleep(number)
   number = 0
@@ -11,5 +12,6 @@ def countdown_with_sleep(number)
   sleep(1)
   puts "#{number} SECOND(S)!"
   number +=1
+end
 end
 =end
